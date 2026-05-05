@@ -130,10 +130,10 @@ main{
 }
 
 .objetivo{
-  font-size: clamp(2.5rem, 4vw, 4rem);
+  font-size: clamp(2rem, 4vw, 2.5rem);
 
   line-height: 1;
-  padding: 1em;
+  padding: .5em;
   color: red;
   border: 2px solid black;
   border-radius: .4em;
@@ -167,7 +167,7 @@ summary{
 }
 
 article{
-  width: min(95%, 1200px);
+  width: min(95%, 1000px);
   margin-inline: auto;
 
   h4{
