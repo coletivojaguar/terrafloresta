@@ -140,6 +140,10 @@ main{
   margin-bottom: 2em;
 }
 
+.jaguar{
+  color: black;
+} 
+
 .publicações-container {
   h3{
     width: min(90%, 1200px);
