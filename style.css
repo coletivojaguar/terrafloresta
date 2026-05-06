@@ -260,12 +260,13 @@ ul{
   list-style-type: none;
   display: grid;  
   gap: 2em;
+  width: 100%;
 
 }
 
 li{
   border-bottom: 2px solid black;
-  font-size: clamp( 3rem, 3vw, 4rem);
+  font-size: clamp( 2rem, 3vw, 3rem);
   line-height: 1;
 
 
