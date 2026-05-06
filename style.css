@@ -142,7 +142,8 @@ main{
 
 .jaguar{
   color: black;
-  padding: .5em 0;
+  margin: .8em 0;
+  display: block;
   font-size: clamp(1.6rem, 4vw, 2rem);
 } 
 
