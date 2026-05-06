@@ -168,7 +168,7 @@ summary{
 }
 
 article{
-  width: min(95%, 1000px);
+  width: min(95%, 800px);
   margin-inline: auto;
 
   h4{
