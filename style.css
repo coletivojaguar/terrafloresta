@@ -162,7 +162,7 @@ summary{
   background-color: black;
   color: white;
   padding:  1em;
-  font-size: clamp(2.4rem, 4vw, 4rem);
+  font-size: clamp(1.8rem, 4vw, 3rem);
   line-height: 1;
 
 }
