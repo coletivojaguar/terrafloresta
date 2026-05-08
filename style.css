@@ -233,7 +233,7 @@ padding: .5em 0;
 border-bottom: 2px solid black;
 color: rgb(20, 100, 28);
 line-height: .9em;
-font-size: clamp(1.2rem, 2vw, 2rem);
+font-size: clamp(1.2rem, 2vw, 1.4rem);
 
 }
 
